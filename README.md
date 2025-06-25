@@ -7,7 +7,7 @@ A npm module to build an entire RESTful API from a single JSON file — for deve
 ## 🚀 Installation
 
 ```bash
-npm install -d json-to-api-server
+npm install json-to-api-server --save-dev
 ```
 
 ## 🛠 Usage
