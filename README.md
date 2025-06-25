@@ -2,7 +2,7 @@
 
 A npm module to build an entire RESTful API from a single JSON file — for development purposes only.
 
-[See changelog here](CHANGELOG.md?plain=1)
+[See changelog here](CHANGELOG.md?plain=0)
 
 ## 🚀 Installation
 
