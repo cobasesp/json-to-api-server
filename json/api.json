@@ -1,0 +1,32 @@
+{
+  "endpoints": [
+    {
+      "products": [
+        {
+          "id": 1,
+          "name": "abc",
+          "price": 12
+        },
+        {
+          "id": 2,
+          "name": "cfdg",
+          "price": 12
+        },
+        {
+          "name": "asdf",
+          "price": 2,
+          "id": 3
+        }
+      ]
+    },
+    {
+      "users": [
+        {
+          "id": 1,
+          "name": "alice",
+          "password": "123"
+        }
+      ]
+    }
+  ]
+}
